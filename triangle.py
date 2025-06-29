@@ -1,5 +1,5 @@
 import math
-# input from user
+# input data from user
 base = float(input("Enter the base of the triangle: "))
 height = float(input("Enter the height of the triangle: "))
 side1 = float(input("Enter the length of side 1: "))
