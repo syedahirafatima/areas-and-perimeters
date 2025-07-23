@@ -9,5 +9,5 @@ area = length * width
 perimeter = 2 * (length + width)
 
 # Presenting the results
-print("The area of the rectangle is:", area,"cm²")
+print("The area of the rectangle is:",  area,"cm²")
 print("The perimeter of the rectangle is:", perimeter,"cm")
