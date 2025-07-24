@@ -2,7 +2,7 @@ import math
 # input data from user
 base = float(input("Enter the base of the triangle: "))
 height = float(input("Enter the height of the triangle: "))
-side1 = float(input("Enter the length of side 1: "))
+side1 = float(input("Enter the l ength of side 1: "))
 side2 = float(input("Enter the length of side 2: "))
 side3 = float(input("Enter the length of side 3: "))
 
