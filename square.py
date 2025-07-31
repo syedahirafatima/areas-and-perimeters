@@ -1,5 +1,5 @@
 # length of one side of the square
-side = float(input("Enter the length of the side of the square: "))
+side = float(input("Enter the length of the  side of the square: "))
 
 # Calculate area
 area = side * side
