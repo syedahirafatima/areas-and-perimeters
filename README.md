@@ -57,3 +57,34 @@ Regular polygon (n sides, side length s, apothem a)
 Area: 0.5 × perimeter × apothem = 0.25 × n × s² × cot(π/n)
 
 Perimeter: n × s
+Keep tests simple and cover edge cases such as zero, negative, and nonnumeric inputs. Decide whether to raise ValueError for invalid values.
+
+Error handling
+
+Functions should raise ValueError for negative lengths, zero where not meaningful, or invalid n for polygons.
+
+CLI should print clear messages and exit with a nonzero code on invalid input.
+
+Performance
+
+These formulas are O(1). There is no heavy computation. If you expect to batch process large CSV files, consider adding a small utility to stream inputs and write outputs.
+
+Contributing
+
+Fork the repo
+
+Create a branch: git checkout -b feature/add-ellipse
+
+Commit: git commit -m "Add ellipse area and perimeter approximations"
+
+Push: git push origin feature/add-ellipse
+
+Open a pull request
+
+Please keep functions small, pure, and covered by tests.
+
+License
+
+Choose a license that fits your use case. MIT is a common default for educational tools.
+
+
