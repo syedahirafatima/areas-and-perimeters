@@ -13,3 +13,22 @@ Optional CLI for quick calculations
 Type hints and docstrings for easy IDE help
 
 Tests and examples
+Formulas reference
+
+Circle
+
+Area: π r²
+
+Perimeter: 2 π r
+
+Rectangle
+
+Area: w × h
+
+Perimeter: 2(w + h)
+
+Square
+
+Area: s²
+
+Perimeter: 4s
