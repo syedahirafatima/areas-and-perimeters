@@ -87,4 +87,12 @@ License
 
 Choose a license that fits your use case. MIT is a common default for educational tools.
 
+Roadmap
 
+Heron’s formula helper for triangle area by sides
+
+Ellipse area and Ramanujan perimeter approximation
+
+CSV and JSON batch utilities
+
+Simple web demo with FastAPI
