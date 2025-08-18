@@ -32,3 +32,28 @@ Square
 Area: s²
 
 Perimeter: 4s
+Triangle
+
+Area: 0.5 × base × height
+
+Perimeter: a + b + c
+
+Optionally use Heron’s formula if only side lengths are known
+
+Parallelogram
+
+Area: base × height
+
+Perimeter: 2(a + b)
+
+Trapezoid (a and b are parallel sides, h is height)
+
+Area: 0.5 × (a + b) × h
+
+Perimeter: a + b + c + d
+
+Regular polygon (n sides, side length s, apothem a)
+
+Area: 0.5 × perimeter × apothem = 0.25 × n × s² × cot(π/n)
+
+Perimeter: n × s
